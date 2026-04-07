@@ -153,7 +153,7 @@ export default function ProductPage() {
                   <img
                     className="w-full h-full object-cover"
                     alt="Portrait of Popi, Founder"
-                    src="/images/founder.jpg"
+                    src="https://raw.githubusercontent.com/harshjainashok/popi-pottery/main/public/images/founder.jpg"
                   />
                 </div>
                 <div>

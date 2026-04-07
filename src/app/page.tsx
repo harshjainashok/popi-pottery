@@ -142,7 +142,7 @@ export default function Home() {
                   <img
                     className="w-full h-[520px] lg:h-[600px] object-cover rounded-xl"
                     alt="The founder of Popi Pottery working on a wheel"
-                    src="/images/founder.jpg"
+                    src="https://raw.githubusercontent.com/harshjainashok/popi-pottery/main/public/images/founder.jpg"
                   />
                 </div>
                 {/* Floating quote card — overlapping */}
@@ -184,7 +184,7 @@ export default function Home() {
                   <img
                     className="w-10 h-10 rounded-full border-2 border-surface object-cover grayscale"
                     alt="Artisan portrait"
-                    src="/images/founder.jpg"
+                    src="https://raw.githubusercontent.com/harshjainashok/popi-pottery/main/public/images/founder.jpg"
                   />
                 </div>
                 <Link
