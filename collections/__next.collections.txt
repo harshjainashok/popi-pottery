@@ -2,4 +2,4 @@
 2:I[39756,["/popi-pottery/_next/static/chunks/02br6syfvbi2f.js","/popi-pottery/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/popi-pottery/_next/static/chunks/02br6syfvbi2f.js","/popi-pottery/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"_XueK81qC8eXT1vuRZ32F"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"EJUhDvisALwtF9vWbP3d-"}

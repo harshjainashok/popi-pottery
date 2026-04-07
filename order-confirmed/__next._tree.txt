@@ -4,4 +4,4 @@
 :HL["/popi-pottery/_next/static/media/b4e85636e2ca4056-s.p.0c3c6tp9xl371.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap","style"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuBnF_troN3BqBgXN8NzTnw2RhvQjMaEdPa10bDSQpQKXPeVgUj6gFh1wSg2xQxIJrlCMLPzKnluZSX7OmUfst0MXv3Rh6RvnNZeTYjpN9DkbyFOPpPaCq3knNjIpxutjf2cnDFJW5YHQMpaweonjeTSaEgfrl_3usiBe3mP09kke3wXAPzJIAckDPHoGcqkxGqfw1OLHRigdMtDMG5JbGrPh9n3f52GlPKDlYQJERAFLXnITlgPOnfEHZmJSEe15Q-ThbuWUCEITuc0","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"order-confirmed","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_XueK81qC8eXT1vuRZ32F"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"order-confirmed","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EJUhDvisALwtF9vWbP3d-"}
