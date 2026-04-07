@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/10vqpwbi6uchl.css","style"]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/8e9d1a1dbcc3c9ea-s.p.04p-ex3i8ywzp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/b4e85636e2ca4056-s.p.0c3c6tp9xl371.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/popi-pottery/_next/static/chunks/10vqpwbi6uchl.css","style"]
+:HL["/popi-pottery/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/popi-pottery/_next/static/media/8e9d1a1dbcc3c9ea-s.p.04p-ex3i8ywzp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/popi-pottery/_next/static/media/b4e85636e2ca4056-s.p.0c3c6tp9xl371.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap","style"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuCNLCiaDlkwCnhQOhG_plbxp8uCHp-NTr3WVMovUk_zoQs4t2ebwqWCpoKmnTKouMkbBJkqs0y0pUlueNuIZ4fOAAc3hYI10IBH4fcdNE2xUblyjMZLglRxltJsYxLNeH9t0_NIYY39feWnKuMO9kzJT0xqFH3LHOXU5JyckTO_Gc5BANb02QIv57vo5DNfQ646QkApX05PjHZUA5a5KADWDWEfuOGFVSMCv4bvpbix8x7OLUfWDPQpQHfSh__wMGeJ8JTPDYl5jDbc","image"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuA4k2A5KldPaXcnCJSK7_YcC1XS4OYZO9e1v9YupGbIpxIawFwFPTKjVpjlm-UaRU9iiCMbGLh5rfgWezsTmnViJATBl1TwhsLsnX-r8LhuBtLsWfLeK5B5LT3Tj0Vw4Sx-F20KoAXhN07Qd9GrxSbkjypXWXqpaWDpPyBsBvAGXiwXWkcLwWLJQdxnXqSZsoPoyJZFe-js6gMP78QDLLefmJKE2RL6sEbnmg1P_w88EuKw_ZueUgwuyR8Ykd53_yrbwBHvtGyfjKmt","image"]
@@ -10,4 +10,4 @@
 :HL["https://raw.githubusercontent.com/harshjainashok/popi-pottery/main/public/images/founder.jpg","image"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuA3z-x9wl7AvbtPY-_b7xmxnVLRiqbAUQYghMAWKc4uriZcHVsUxnH1gHfTw4IzfPAuuONRsPxG28pkvuykL2EGk-7g7TL0FRog8gR7rFrGDgi0TiWzBuGP7jB2WZ7knYbpN3Hs1FFjO70j5Knu9sQwn_fMXeA990qYW6F4LZ8UKcjWFGDFFwR4j69TTwAi3A0uor6lDhKYBIlVwbCLinNRFBZwDIHmB-_xUeFa4D1o3G2OiQIjHhjaw_2mmu1fKkfZAMRcUe4zBVER","image"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuBBeBgz51rwnHv-LC_E2lwvHZzUbEsNaNAxXgyh6Pv46Y9hoMPRCo_FkKeqyMGJRi7oc9esejUm0l6QnSS54_GIGVHEhCgleN8R7fz5A9BXmyuJEsMDFEa8ESwPBhbiSlwzXW5AhfqzgBfOxRk4z6cEZBuL5HXzSkdLhtpjmWthEFi-qcbOM-Lmkr7Gt0PpVvOGhfTVFH0yqjFFDNImmxpSlwBTeM3LF_F8qDHU3xa1vYPI_aY9Yb-HsS31QcdC1wfp7Qsh1he3EaGb","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xnyqVJyM_tf4fBBdHvrsp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7CRKWA_3F1VnuuD7vTl-7"}
