@@ -1,26 +1,142 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* ── Color Palette ── */
+  --color-primary: #6c5b4e;
+  --color-primary-dim: #5f4f43;
+  --color-on-primary: #fff6f1;
+  --color-primary-container: #f5dece;
+  --color-on-primary-container: #5e4f42;
+
+  --color-secondary: #746152;
+  --color-secondary-dim: #675547;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #f8decc;
+  --color-on-secondary-container: #604e41;
+
+  --color-tertiary: #656464;
+  --color-tertiary-dim: #595858;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #f6f3f2;
+  --color-on-tertiary-container: #5c5b5b;
+
+  --color-surface: #fffcf7;
+  --color-background: #fffcf7;
+  --color-on-surface: #383831;
+  --color-on-background: #383831;
+  --color-surface-variant: #eae8de;
+  --color-on-surface-variant: #65655c;
+
+  --color-surface-container: #f6f4ec;
+  --color-surface-container-low: #fcf9f3;
+  --color-surface-container-high: #f0eee5;
+  --color-surface-container-highest: #eae8de;
+  --color-surface-container-lowest: #ffffff;
+
+  --color-outline: #818178;
+  --color-outline-variant: #babab0;
+
+  --color-error: #a54731;
+  --color-error-dim: #5c1202;
+  --color-error-container: #fe8b70;
+  --color-on-error: #ffffff;
+  --color-on-error-container: #742410;
+
+  --color-inverse-surface: #0e0e0c;
+  --color-inverse-on-surface: #9e9d98;
+  --color-inverse-primary: #fee7d6;
+
+  --color-surface-bright: #fffcf7;
+  --color-surface-dim: #e4e3d7;
+  --color-surface-tint: #6c5b4e;
+
+  --color-primary-fixed: #f5dece;
+  --color-primary-fixed-dim: #e6d0c0;
+  --color-on-primary-fixed: #4b3d31;
+  --color-on-primary-fixed-variant: #69584c;
+
+  --color-secondary-fixed: #f8decc;
+  --color-secondary-fixed-dim: #e9d0be;
+  --color-on-secondary-fixed: #4d3c2f;
+  --color-on-secondary-fixed-variant: #6a584a;
+
+  --color-tertiary-fixed: #f6f3f2;
+  --color-tertiary-fixed-dim: #e7e5e4;
+  --color-on-tertiary-fixed: #4a4949;
+  --color-on-tertiary-fixed-variant: #676666;
+
+  /* ── Typography: Noto Serif + Inter ── */
+  --font-headline: var(--font-noto-serif), "Noto Serif", "Georgia", serif;
+  --font-body: var(--font-inter), "Inter", sans-serif;
+  --font-label: var(--font-inter), "Inter", sans-serif;
+  --font-sans: var(--font-inter), "Inter", sans-serif;
+  --font-serif: var(--font-noto-serif), "Noto Serif", "Georgia", serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* ── Base styles ── */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-on-background);
+  font-family: var(--font-body);
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-headline);
+}
+
+/* ── Material Symbols ── */
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+  font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+}
+
+/* ── Custom scrollbar ── */
+.custom-scroll::-webkit-scrollbar { height: 4px; }
+.custom-scroll::-webkit-scrollbar-track { background: #f6f4ec; }
+.custom-scroll::-webkit-scrollbar-thumb { background: #babab0; border-radius: 4px; }
+
+/* ── Editorial shadow ── */
+.editorial-shadow {
+  box-shadow: 0 40px 60px -15px rgba(56, 56, 49, 0.05);
+}
+
+/* ── Hide scrollbar ── */
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ── Safe area ── */
+.pb-safe { padding-bottom: env(safe-area-inset-bottom); }
+
+/* ── Masonry offset ── */
+@media (min-width: 768px) {
+  .masonry-item:nth-child(even) { margin-top: 3rem; }
+}
+
+/* ── Smooth page transitions ── */
+@keyframes pageReveal {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+main { animation: pageReveal 0.4s ease-out; }
+
+/* ── Selection ── */
+::selection {
+  background-color: var(--color-primary-container);
+  color: var(--color-on-primary-container);
 }
