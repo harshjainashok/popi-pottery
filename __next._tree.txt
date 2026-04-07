@@ -10,4 +10,4 @@
 :HL["https://raw.githubusercontent.com/harshjainashok/popi-pottery/main/public/images/founder.jpg","image"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuA3z-x9wl7AvbtPY-_b7xmxnVLRiqbAUQYghMAWKc4uriZcHVsUxnH1gHfTw4IzfPAuuONRsPxG28pkvuykL2EGk-7g7TL0FRog8gR7rFrGDgi0TiWzBuGP7jB2WZ7knYbpN3Hs1FFjO70j5Knu9sQwn_fMXeA990qYW6F4LZ8UKcjWFGDFFwR4j69TTwAi3A0uor6lDhKYBIlVwbCLinNRFBZwDIHmB-_xUeFa4D1o3G2OiQIjHhjaw_2mmu1fKkfZAMRcUe4zBVER","image"]
 :HL["https://lh3.googleusercontent.com/aida-public/AB6AXuBBeBgz51rwnHv-LC_E2lwvHZzUbEsNaNAxXgyh6Pv46Y9hoMPRCo_FkKeqyMGJRi7oc9esejUm0l6QnSS54_GIGVHEhCgleN8R7fz5A9BXmyuJEsMDFEa8ESwPBhbiSlwzXW5AhfqzgBfOxRk4z6cEZBuL5HXzSkdLhtpjmWthEFi-qcbOM-Lmkr7Gt0PpVvOGhfTVFH0yqjFFDNImmxpSlwBTeM3LF_F8qDHU3xa1vYPI_aY9Yb-HsS31QcdC1wfp7Qsh1he3EaGb","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"EJUhDvisALwtF9vWbP3d-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"XJlihXVX7PukSmD0Txn3q"}
